@@ -19,3 +19,5 @@ compinit
 export PATH=/home/naknut/.cargo/bin:$PATH
 
 eval "$(starship init zsh)"
+
+cd ~
