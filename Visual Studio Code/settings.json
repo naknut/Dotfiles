@@ -1,0 +1,20 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+
+    "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+    "files.insertFinalNewline": true,
+
+    "vim.useSystemClipboard": true,
+
+    "vim.handleKeys": {
+        "<C-c>": false,
+        "<C-v>": false,
+        "<C-x>": false
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+
+    "rust-analyzer.updates.channel": "nightly",
+    "rust-analyzer.updates.askBeforeDownload": false,
+    "rust-analyzer.cargo.loadOutDirsFromCheck": true,
+    "rust-analyzer.procMacro.enable": true
+}
