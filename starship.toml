@@ -2,8 +2,5 @@ add_newline = false
 [line_break]
 disabled = true
 
-[git_branch]
-symbol = "🌱 "
-
 [git_commit]
 disabled = true
